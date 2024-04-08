@@ -6,12 +6,13 @@ date:   2023-09-01 15:39:40
 preview: /assets/postpreview.png
 ---
 _4v4 Team-based Competitive Action Game with Crash Bandicoot Characters_
+
 **Toys For Bob** | Unreal Engine 4
 
 
 ![Picture 1](/assets/fullsize.png)
 
-I worked for Toys for Bob as an intern on the summer of 2023:
+
   - Added damage modifiers that can be changed via gameplay effects so designers can better change player damage through powerups.
   - Implemented default knockback so players can get affected by attacks that don't have knockback by default.
   - Fixed bugs relating to hover jump getting stuck on walls, infinite dashing into the air, prematurely cancelling an air boost by double jumping.
