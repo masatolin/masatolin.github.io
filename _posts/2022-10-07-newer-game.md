@@ -10,7 +10,6 @@ preview: /assets/postpreview.png
 
 **USC Games** | Unreal Engine 5
 
-
 ![Picture 1](/assets/manasarcher.png)
 
 - Implemented UI from mockups given by UI artists for options menus, main menus, HUD.
