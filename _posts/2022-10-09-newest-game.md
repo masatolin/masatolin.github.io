@@ -10,7 +10,7 @@ _4v4 Team-based Competitive Action Game with Crash Bandicoot Characters_
 **Toys For Bob** | Unreal Engine 4
 
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](/assets/CalamityCanyon_004_SH_FINAL.png)
 
 
   - Added damage modifiers that can be changed via gameplay effects so designers can better change player damage through powerups.
