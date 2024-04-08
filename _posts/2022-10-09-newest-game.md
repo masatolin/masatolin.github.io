@@ -3,7 +3,7 @@ layout: post
 title:  "Crash Team Rumble"
 summary: "Gameplay Programming Intern"
 date:   2023-09-01 15:39:40
-preview: /assets/postpreview.png
+preview: /assets/CalamityCanyon_004_SH_FINAL.png
 ---
 [_4v4 Team-based Competitive Action Game with Crash Bandicoot Characters_](https://www.crashbandicoot.com/crashteamrumble)
 
