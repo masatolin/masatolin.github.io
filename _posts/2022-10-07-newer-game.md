@@ -6,6 +6,14 @@ date:   2023-05-020 15:39:40
 preview: /assets/postpreview.png
 ---
 
-![Picture 1](/assets/fullsize.png)
+_Third Person Action Game based on Kyrgz culture_
 
-Put down info here, either in bullets or paragraphs.
+**USC Games** | Unreal Engine 5
+
+
+![Picture 1](/assets/manasarcher.png)
+
+- Implemented UI from mockups given by UI artists for options menus, main menus, HUD.
+- Established dialogue system that displayed subtitles and played voice lines, imported a csv file from a spreadsheet for ease of use.
+- Set up camera shifts to a different angle when in conversation with NPCs.
+- Worked on implementing mounted attacks and damage while mounted.
