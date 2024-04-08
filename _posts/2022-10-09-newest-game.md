@@ -1,15 +1,18 @@
 ---
 layout: post
-title:  "Newest Game"
-summary: "Lead Programmer and Designer"
-date:   2022-10-09 15:39:40
+title:  "Crash Team Rumble"
+summary: "Gameplay Programming Intern"
+date:   2023-09-01 15:39:40
 preview: /assets/postpreview.png
 ---
+_4v4 Team-based Competitive Action Game with Crash Bandicoot Characters_
+**Toys For Bob** | Unreal Engine 4
+
 
 ![Picture 1](/assets/fullsize.png)
 
-Here's some impressive stuff I did:
-
-* Added ChatGPT for NPC dialogues
-* Won game of the year from 200 publications
-* Was named *Time* person of the year (as a video game)
+I worked for Toys for Bob as an intern on the summer of 2023:
+  - Added damage modifiers that can be changed via gameplay effects so designers can better change player damage through powerups.
+  - Implemented default knockback so players can get affected by attacks that don't have knockback by default.
+  - Fixed bugs relating to hover jump getting stuck on walls, infinite dashing into the air, prematurely cancelling an air boost by double jumping.
+  - Worked on optimizing badge loading to prevent out-of-memory crashes on PS4.
