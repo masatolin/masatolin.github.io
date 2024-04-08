@@ -6,7 +6,7 @@ date:   2023-05-020 15:39:40
 preview: /assets/postpreview.png
 ---
 
-_Third Person Action Game based on Kyrgz culture_
+[_Third Person Action Game based on Kyrgz culture_](https://uscgames.itch.io/manas)
 
 **USC Games** | Unreal Engine 5
 
