@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Newer Game"
-summary: "Senior Technical Designer"
-date:   2022-10-07 15:39:40
+title:  "Manas"
+summary: "Audio and UI Engineer"
+date:   2023-05-020 15:39:40
 preview: /assets/postpreview.png
 ---
 
