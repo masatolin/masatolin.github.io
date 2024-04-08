@@ -5,7 +5,7 @@ summary: "Gameplay Programming Intern"
 date:   2023-09-01 15:39:40
 preview: /assets/postpreview.png
 ---
-_4v4 Team-based Competitive Action Game with Crash Bandicoot Characters_
+[_4v4 Team-based Competitive Action Game with Crash Bandicoot Characters_](https://www.crashbandicoot.com/crashteamrumble)
 
 **Toys For Bob** | Unreal Engine 4
 
