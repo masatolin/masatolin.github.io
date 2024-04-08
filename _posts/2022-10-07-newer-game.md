@@ -2,7 +2,7 @@
 layout: post
 title:  "Manas"
 summary: "Audio and UI Engineer"
-date:   2023-05-020 15:39:40
+date:   2023-05-20 15:39:40
 preview: /assets/postpreview.png
 ---
 
