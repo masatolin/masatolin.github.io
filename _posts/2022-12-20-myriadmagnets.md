@@ -15,10 +15,10 @@ preview: /assets/Images/MyriadMagnets_Preview.png
 - Engineered player movement and interactions with magnet points and hazards.
 - Designed and tuned tutorial and chase level.
 
-<video autoplay loop controls muted>
+<video width="800" height="450" autoplay loop controls muted>
    <source type="video/mp4" src="/assets/Videos/MyriadMagnets_Clip1.mp4">
 </video>
 
-<video autoplay loop controls muted>
+<video width="800" height="450" autoplay loop controls muted>
    <source type="video/mp4" src="/assets/Videos/MyriadMagnets_Clip2.mp4">
 </video>
