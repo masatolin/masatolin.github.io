@@ -4,8 +4,6 @@ title: "About Me"
 permalink: /about/
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](/assets/Images/MasatoLinAboutMe.png)
 
-Hello! I'm Game Developer, an award-winning game developer who can both program and design games. As you can see from my impressive portfolio, I've worked on lots of different games!
-
-If you're interested in what I can offer your company, please contact me!
+I'm a Game Programmer who's graduating in May 2024. I have industry experience as a Gameplay Programming Intern, but also have worked as a UI and Audio Engineer on capstone projects. I have experience in Unreal Engine and Unity. I love programming for games and want to explore more of it, whether that be UI engineering, gameplay, engine, audio, etc. Feel free to check out my work!
