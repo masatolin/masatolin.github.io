@@ -20,3 +20,6 @@ preview: /assets/Images/TurtleTown_Preview.png
 - Set up building behaviors, such as shooting buildings, resource buildings, and building upgrades.
 - Worked on resource collection and resource behaviors.
 - Created scene transitions and credits.
+
+Here's the game trailer:<br>
+[![Turtle Town Trailer](https://img.youtube.com/vi/Ga3W-JJLRq8/0.jpg)](https://www.youtube.com/watch?v=Ga3W-JJLRq8)
