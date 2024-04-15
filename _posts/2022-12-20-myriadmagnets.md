@@ -6,7 +6,7 @@ date:   2022-09-08 15:39:40
 preview: /assets/Images/MyriadMagnets_Preview.png
 ---
 
-[_Underwater Magnet Puzzle Game_](https://dwagon6.itch.io/myriad-magnets)
+Underwater Magnet Puzzle Game: [_Link to Game Page_](https://dwagon6.itch.io/myriad-magnets)
 
 ![Picture 1](/assets/Images/MyriadMagnets_Full.png)
 
