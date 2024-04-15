@@ -15,10 +15,10 @@ preview: /assets/Images/MyriadMagnets_Preview.png
 **Time Period:** June - July 2022<br>
 **Skills:** Unity, Github, C#, Google Sheets, Rider<br>
 
-- Engineered unique momentum-based movement with 3 types of magnetic points and 3 types of hazards.
-- Designed and tuned tutorial levels and a horror-themed chase sequence, iterating with playtest feedback.
+- Engineered magnetic, momentum-based movement with 3 magnetic point types and 3 hazard types. The magnetic points are how the player can move, either from getting pulled towards a point or pushed away. The different hazards include static spikes, rotating buzzsaws, and a giant angler fish that would chase the player.
+- Designed and tuned tutorial levels and chase sequences, collaborating with the Designer and iterating with playtests. Lots of attention was paid to make sure the players would have a fun time navigating the level in interesting ways.
 
-Here's some videos showcasing some of the unique gameplay: <br>
+Here's some videos showcasing some of the gameplay: <br>
 <video width="800" height="450" autoplay loop controls muted>
    <source type="video/mp4" src="/assets/Videos/MyriadMagnets_Clip1.mp4">
 </video>
