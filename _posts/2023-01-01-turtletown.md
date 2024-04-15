@@ -6,7 +6,7 @@ date:   2022-10-06 15:39:40
 preview: /assets/Images/TurtleTown_Preview.png
 ---
 
-[_Steampunk Survival City Builder_](https://turtletown.itch.io/turtle-town)
+Steampunk Survival City Builder: [_Link to Game Page_](https://turtletown.itch.io/turtle-town)
 
 **USC Games** | Unity
 
