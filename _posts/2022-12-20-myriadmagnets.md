@@ -11,7 +11,6 @@ Underwater Magnet Puzzle Game: [_Link to Game Page_](https://dwagon6.itch.io/myr
 ![Picture 1](/assets/Images/MyriadMagnets_Full.png)
 
 ## Overview
-**Company:** Summer Project<br>
 **Time Period:** June - July 2022<br>
 **Skills:** Unity, Github, C#, Google Sheets, Rider<br>
 
