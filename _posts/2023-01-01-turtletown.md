@@ -13,7 +13,6 @@ Steampunk Survival City Builder: [_Link to Game Page_](https://turtletown.itch.i
 ![Picture 1](/assets/Images/TurtleTown_Full.png)
 
 ## Overview
-**Company:** USC Games Capstone<br>
 **Time Period:** August 2021 - May 2022<br>
 **Skills:** Unity, Perforce, C#, Google Sheets, Visual Studio<br>
 
